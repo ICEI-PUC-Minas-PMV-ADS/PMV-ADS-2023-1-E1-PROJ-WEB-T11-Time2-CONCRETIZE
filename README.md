@@ -1,27 +1,29 @@
-# TÍTULO DO PROJETO
+# CONCRETIZE
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`Eixo 1 - 2023`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+<img src="https://i.imgur.com/xEQyIHY.png" style="width: 200px;">
+
+O projeto consiste em uma plataforma online que conecta pessoas que buscam serviços na área de construção civil a profissionais qualificados. A plataforma funciona como um intermediário entre o cliente e o profissional, facilitando a contratação de serviços e tornando todo o processo mais eficiente e transparente. Com isso, espera-se que os clientes encontrem profissionais qualificados de forma mais fácil e tenham mais controle sobre o processo de contratação e acompanhamento da obra, enquanto os profissionais têm acesso a uma base maior de clientes em potencial.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Bruno da Silva Lobo
+* Kleiton Soares Lucas
+* Lucas Marques Gomes Viana Lima
+* Maria Beatriz da Silva
 
 ## Orientador
 
-* Nome completo do professor 1
+* Viviâne De Almeida Tôrres
 
-## Instruções de utilização
+<!-- ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.-->
 
 # Documentação
 
@@ -30,18 +32,18 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
+<!-- <li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
 <li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
 <li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
 <li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
 <li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/10-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
+<li><a href="docs/10-Apresentação do Projeto.md"> Apresentação do Projeto</a></li> -->
 <li><a href="docs/11-Referências.md"> Referências</a></li>
 </ol>
 
-# Hospedagem
+<!-- # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* Insira o endereço eletrônico público de acesso ao conteúdo publicado.
 
 # Armazenamento do Código-Fonte
 
@@ -49,4 +51,4 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Armazenamento da Apresentação
 
-* <a href="presentation/README.md">Apresentação da solução</a>
+* <a href="presentation/README.md">Apresentação da solução</a> -->
