@@ -53,13 +53,13 @@ Página contendo as informações cadastrais do cliente, disponibilizando a opç
 
 A tela disponibilizará os orçamentos recebidos, filtrados por categorias (pedreiro, pintor, marceneiro). Ao clicar em solicitação, o cliente poderá visualizar os orçamentos de todos os profissionais que respoderam a solicitação.
 
-### Serviços solicitados - orçamento
+### Serviços solicitados - Orçamento
 
 <img src="https://live.staticflickr.com/65535/52837791446_8074abceef_h.jpg" width="50%" alt="serviços solicitados - orçamento"/>
 
 Página contendo os orçamentos dos profissionais, separadamente.
 
-### Serviços solicitados - detalhes do orçamento
+### Serviços solicitados - Detalhes do orçamento
 
 <img src="https://live.staticflickr.com/65535/52838236483_e7c1549221_h.jpg" width="50%" alt="serviços solicitados - detalhes do orçamento"/>
 <img src="https://live.staticflickr.com/65535/52837219857_08180d82df_h.jpg" width="50%" alt="serviços solicitados - detalhes do orçamento aceito"/>
@@ -82,7 +82,7 @@ O cliente poderá visualizar o perfil do profissional. Essa página poderá ser 
 
 ### Painel profissional - Orçamentos enviados
 
-### Painel profissional - Orçamento enviado detalhes
+### Painel profissional - Orçamento enviado - Detalhes
 
 ### Painel profissional - Talvez você se interesse
 
