@@ -19,7 +19,7 @@ A metodologia contempla as definições de ferramental utilizado pela equipe tan
   <tr>
     <td style="border: 1px solid black; padding: 10px;">Documentos do projeto</td>
     <td style="border: 1px solid black; padding: 10px;">Google Drive</td>
-    <td style="border: 1px solid black; padding: 10px;"><a href="https://docs.google.com/folder/d/1xE9t6zD78VnVkeOSgDfss33QWe85ogqYpx9x-tuG24" target="_blank">Clique aqui</a> para acessar a documentação no Drive</td>
+    <td style="border: 1px solid black; padding: 10px;"><a href="https://drive.google.com/drive/folders/1TqBcypx-cU87uLSjxAe84d-SIWqf9poa?usp=share_link" target="_blank">Clique aqui</a> para acessar a documentação no Drive</td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 10px;">Projeto de Interface e  Wireframes</td>
