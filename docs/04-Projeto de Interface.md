@@ -67,9 +67,9 @@ Página contendo os detalhes do orçamento em questão. Se o cliente resolver ac
 
 ### Perfil do profissional
 
-![Perfil do profissional](https://i.imgur.com/LQOGlqo.png)
+<img src="https://live.staticflickr.com/65535/52837219807_498f8d652d_h.jpg" width="50%" alt="perfil do profissional (visualizar)"/>
 
-Essa página poderá ser acessada por meio da página de solicitação do profissional e irá conter a nota do profissional, avaliações e seu poortfólio.
+O cliente poderá visualizar o perfil do profissional. Essa página poderá ser acessada por meio dos detalhes do orçamento  e irá conter a nota do profissional, avaliações e seu portfólio.
 
 <!-- > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
