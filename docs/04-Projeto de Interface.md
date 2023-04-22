@@ -82,7 +82,13 @@ O cliente poderá visualizar o perfil do profissional. Essa página poderá ser 
 
 ### Painel profissional - Orçamentos enviados
 
+### Painel profissional - Orçamento enviado detalhes
+
 ### Painel profissional - Talvez você se interesse
+
+### Painel profissional - Talvez você se interesse - Solicitação de serviços
+
+### Perfil do cliente (visualizar)
 
 
 <!-- > **Links Úteis**:
