@@ -46,9 +46,9 @@ Painel que será apresentado logo após interagir com o botão "meu painel" no m
 <img src="https://live.staticflickr.com/65535/52837219882_46a4a13357_h.jpg" width="50%" alt="dados do cliente"/>
 Página contendo as informações pessoais do cliente, disponibilizando a opção de edição. Também conterá as avaliações postadas pelos profissionais e a nota pessoal.
 
-### Serviços
+### Serviços solicitados
 
-<img src="https://live.staticflickr.com/65535/52837126606_e0a337d078_b.jpg" width="1024" height="844" alt="meu painel _ serviços"/>
+<img src="https://live.staticflickr.com/65535/52837791471_cc41f82f79_h.jpg" width="50%" alt="serviços solicitados"/>
 
 A tela disponibilizará os orçamentos recebidos, separados por categorias (pedreiro, pintor, marceneiro). Ao clicar em uma categoria, o cliente poderá visualizar os orçamentos de todos os profissionais que respoderam a solicitação.
 
