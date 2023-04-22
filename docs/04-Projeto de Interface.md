@@ -21,51 +21,51 @@ Os diagramas apresentados nas figuras acima mostram o fluxo de interação do us
 
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem.
 
-## Home
+### Home
 <img src="https://live.staticflickr.com/65535/52837441033_8122407205_b.jpg" width="589" height="1024" alt="home"/>
 
 A home page permitirá ao cliente e ao profissional acessar pelo menu principal o painel pessoal, onde estará disponível funcionalidades como editar informações pessoais, visualizar solicitações, responder a solicitações, editar portfólio, entre outros. No menu principal da home também estará disponível a categorias, onde os usuários poderão navegar pelas aŕeas disponíveis em nossa plataforma e solicitar pedidos, e também um botão de atalho para solicitar um serviço.
 
-## Solicitação de serviço
+### Solicitação de serviço
 <img src="https://live.staticflickr.com/65535/52836551517_0a9fa6ae2e_b.jpg" width="1024" height="852" alt="solicitação de serviço"/>
 
 Formulário que o cliente irá preencher, descrevendo as necessidades do serviço a ser feito e notificando os profissionais, que responderão ao pedido.
 
-## Meu painel
+### Meu painel
 
 <img src="https://live.staticflickr.com/65535/52837311369_e2dfda49cd_b.jpg" width="1024" height="858" alt="meu painel cliente"/>
 
 Painel que será apresentado logo após interagir com o botão "meu painel" no menu principal da home. Disponibilizará aos clientes atalhos para edição das informações pessoais e serviços solicitados. Aos profissionais, será disponibilizada a função de editar o perfil profissional e notificações de pedidos.
 
-## Perfil do cliente (editar)
+### Perfil do cliente (editar)
 
 <img src="https://live.staticflickr.com/65535/52837529470_3a37b80018_b.jpg" width="1024" height="697" alt="perfil do cliente (editar)"/>
 
-## Dados do cliente
+### Dados do cliente
 
 <img src="https://live.staticflickr.com/65535/52837325134_fce8fbafed_b.jpg" width="1024" height="781" alt="dados do cliente (1)"/>
 
 Página contendo as informações pessoais do cliente, disponibilizando a opção de edição. Também conterá as avaliações postadas pelos profissionais e a nota pessoal.
 
-## Serviços
+### Serviços
 
 <img src="https://live.staticflickr.com/65535/52837126606_e0a337d078_b.jpg" width="1024" height="844" alt="meu painel _ serviços"/>
 
 A tela disponibilizará os orçamentos recebidos, separados por categorias (pedreiro, pintor, marceneiro). Ao clicar em uma categoria, o cliente poderá visualizar os orçamentos de todos os profissionais que respoderam a solicitação.
 
-## Serviços (detalhes)
+### Serviços (detalhes)
 
 <a href="https://imgbox.com/lTjnt010" target="_blank"><img src="https://thumbs2.imgbox.com/dc/bb/lTjnt010_t.png" alt="image host"/></a>
 
 Página contendo os orçamentos dos profissionais, separadamente.
 
-## Solicitação profissional
+### Solicitação profissional
 
 ![Orçamento profissional](https://i.imgur.com/kHxrsg2.png)
 
 Página contendo detalhes de cada pedido, individualmente.
 
-## Perfil do profissional
+### Perfil do profissional
 
 ![Perfil do profissional](https://i.imgur.com/LQOGlqo.png)
 
