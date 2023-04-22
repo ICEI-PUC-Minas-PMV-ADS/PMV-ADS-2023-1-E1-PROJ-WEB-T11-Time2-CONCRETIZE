@@ -55,15 +55,17 @@ A tela disponibilizará os orçamentos recebidos, separados por categorias (pedr
 
 ### Serviços solicitados - orçamento
 
-<img src="https://live.staticflickr.com/65535/52837791446_8074abceef_h.jpg" width="50%" alt="serviços solicitados - detalhes"/>
+<img src="https://live.staticflickr.com/65535/52837791446_8074abceef_h.jpg" width="50%" alt="serviços solicitados - orçamento"/>
+
 
 Página contendo os orçamentos dos profissionais, separadamente.
 
 ### Serviços solicitados - detalhes do orçamento
 
-<img src="https://live.staticflickr.com/65535/52838236483_e7c1549221_h.jpg" width="50%" alt="serviços solicitados - orçamento"/>
+<img src="https://live.staticflickr.com/65535/52838236483_e7c1549221_h.jpg" width="50%" alt="serviços solicitados - detalhes do orçamento"/>
+<img src="https://live.staticflickr.com/65535/52837219857_08180d82df_h.jpg" width="50%" alt="serviços solicitados - detalhes do orçamento aceito"/>
 
-Página contendo os detalhes do orçamento em questão. Se o cliente resolver aceitar a proposta, o status da solicitação mudará de "aberto" para "fechado". Quando o status da solicitação estiver "fechado", o cliente só poderá aceitar o orçamento de outro profissional, caso desista daquele orçamento que havia aceitado anteriormente.
+Página contendo os detalhes do orçamento em questão. Se o cliente resolver aceitar a proposta, o status da solicitação mudará de "aberto" para "fechado". Quando o status da solicitação estiver "fechado", o cliente só poderá aceitar o orçamento de outro profissional, caso desista do orçamento que havia aceitado anteriormente.
 
 ### Perfil do profissional
 
