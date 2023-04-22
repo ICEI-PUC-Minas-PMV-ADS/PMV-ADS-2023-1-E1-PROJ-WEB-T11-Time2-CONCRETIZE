@@ -4,7 +4,7 @@
 Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis. Para melhor entendimento do sistema, separamos o fluxo do usuário em fluxo do cliente e fluxo do profissional.
 
 ## User Flow
-<img src="https://live.staticflickr.com/65535/52838009155_a324230a8d_h.jpg" width="1600" height="556" alt="fluxo cliente"/>
+<img src="https://live.staticflickr.com/65535/52838009155_a324230a8d_h.jpg" width="100%" alt="fluxo cliente"/>
 
 O diagrama apresentado na figura acima mostra o fluxo de interação do cliente pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente Figma do projeto <a href="https://www.figma.com/file/2zdYm4H8njZOzXqB49R3yF/Prot%C3%B3tipos-de-m%C3%A9dia-fidelidade?node-id=0%3A1&t=mjSmiZSkHB23qwmx-1" target="_blank">clicando aqui</a>.
 
