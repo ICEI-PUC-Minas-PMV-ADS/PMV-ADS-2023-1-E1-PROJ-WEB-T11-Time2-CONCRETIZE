@@ -53,17 +53,17 @@ Página contendo as informações cadastrais do cliente, disponibilizando a opç
 
 A tela disponibilizará os orçamentos recebidos, separados por categorias (pedreiro, pintor, marceneiro). Ao clicar em uma categoria, o cliente poderá visualizar os orçamentos de todos os profissionais que respoderam a solicitação.
 
-### Serviços (detalhes)
+### Serviços solicitados - orçamento
 
-<a href="https://imgbox.com/lTjnt010" target="_blank"><img src="https://thumbs2.imgbox.com/dc/bb/lTjnt010_t.png" alt="image host"/></a>
+<img src="https://live.staticflickr.com/65535/52837791446_8074abceef_h.jpg" width="50%" alt="serviços solicitados - detalhes"/>
 
 Página contendo os orçamentos dos profissionais, separadamente.
 
-### Solicitação profissional
+### Serviços solicitados - detalhes do orçamento
 
-![Orçamento profissional](https://i.imgur.com/kHxrsg2.png)
+<img src="https://live.staticflickr.com/65535/52838236483_e7c1549221_h.jpg" width="50%" alt="serviços solicitados - orçamento"/>
 
-Página contendo detalhes de cada pedido, individualmente.
+Página contendo os detalhes do orçamento em questão. Se o cliente resolver aceitar a proposta, o status da solicitação mudará de "aberto" para "fechado". Quando o status da solicitação estiver "fechado", o cliente só poderá aceitar o orçamento de outro profissional, caso desista daquele orçamento que havia aceitado anteriormente.
 
 ### Perfil do profissional
 
