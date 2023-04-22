@@ -14,10 +14,10 @@ A metodologia contempla as definições de ferramental utilizado pela equipe tan
   <tr>
     <td style="border: 1px solid black; padding: 10px;">Repositório de código fonte</td>
     <td style="border: 1px solid black; padding: 10px;">GitHub</td>
-    <td style="border: 1px solid black; padding: 10px;"><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-02.git" target="_blank">Clique aqui</a> para acessar o repositório/td>
+    <td style="border: 1px solid black; padding: 10px;"><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-02.git" target="_blank">Clique aqui</a> para acessar o repositório</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 10px;">Documentos do projeto/td>
+    <td style="border: 1px solid black; padding: 10px;">Documentos do projeto</td>
     <td style="border: 1px solid black; padding: 10px;">Google Drive</td>
     <td style="border: 1px solid black; padding: 10px;"><a href="https://docs.google.com/folder/d/1xE9t6zD78VnVkeOSgDfss33QWe85ogqYpx9x-tuG24" target="_blank">Clique aqui</a> para acessar a documentação no Drive</td>
   </tr>
