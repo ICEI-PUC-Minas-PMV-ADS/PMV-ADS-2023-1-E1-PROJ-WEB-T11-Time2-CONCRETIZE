@@ -35,7 +35,7 @@ Formulário que o cliente irá preencher, descrevendo as necessidades do serviç
 
 <img src="https://live.staticflickr.com/65535/52838193215_d2e155fb14_h.jpg" width="50%" alt="meu painel cliente"/>
 
-Painel que será apresentado logo após interagir com o botão "meu painel" no menu principal da home. Disponibilizará aos clientes atalhos para edição das informações pessoais e serviços solicitados. Aos profissionais, será disponibilizada uma função a mais, intitulada como "painel do profissional".
+Painel que será apresentado logo após interagir com o botão "meu painel" no menu principal da home. Disponibilizará aos clientes atalhos para edição das informações pessoais e serviços solicitados. Aos profissionais, será disponibilizada uma função a mais, intitulada como "Painel profissional".
 
 ### Perfil do cliente (editar)
 
