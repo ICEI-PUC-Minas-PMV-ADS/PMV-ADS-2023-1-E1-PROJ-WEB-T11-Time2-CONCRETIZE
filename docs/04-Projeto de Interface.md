@@ -57,7 +57,6 @@ A tela disponibilizará os orçamentos recebidos, separados por categorias (pedr
 
 <img src="https://live.staticflickr.com/65535/52837791446_8074abceef_h.jpg" width="50%" alt="serviços solicitados - orçamento"/>
 
-
 Página contendo os orçamentos dos profissionais, separadamente.
 
 ### Serviços solicitados - detalhes do orçamento
@@ -72,6 +71,11 @@ Página contendo os detalhes do orçamento em questão. Se o cliente resolver ac
 <img src="https://live.staticflickr.com/65535/52837219807_498f8d652d_h.jpg" width="50%" alt="perfil do profissional (visualizar)"/>
 
 O cliente poderá visualizar o perfil do profissional. Essa página poderá ser acessada por meio dos detalhes do orçamento  e irá conter a nota do profissional, avaliações e seu portfólio.
+
+## Wireframes do fluxo do profissional
+
+### Home 
+
 
 <!-- > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
