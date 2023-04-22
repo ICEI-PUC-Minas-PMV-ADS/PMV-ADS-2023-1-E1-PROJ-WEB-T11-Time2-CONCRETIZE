@@ -31,7 +31,7 @@ A home page permitirá ao cliente e ao profissional acessar pelo menu principal 
 
 Formulário que o cliente irá preencher, descrevendo as necessidades do serviço a ser feito e notificando os profissionais, que responderão ao pedido.
 
-### Meu painel
+### Meu painel (cliente)
 
 <img src="https://live.staticflickr.com/65535/52838193215_d2e155fb14_h.jpg" width="50%" alt="meu painel cliente"/>
 
