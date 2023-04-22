@@ -40,11 +40,12 @@ Painel que será apresentado logo após interagir com o botão "meu painel" no m
 ### Perfil do cliente (editar)
 
 <img src="https://live.staticflickr.com/65535/52837975609_abadf29197_h.jpg" width="50%" alt="perfil do cliente (editar)"/>
+Página contendo foto do cliente, disponibilizando a opção de edição. Também conterá as avaliações postadas pelos profissionais e a nota pessoal.
 
 ### Dados do cliente
 
 <img src="https://live.staticflickr.com/65535/52837219882_46a4a13357_h.jpg" width="50%" alt="dados do cliente"/>
-Página contendo as informações pessoais do cliente, disponibilizando a opção de edição. Também conterá as avaliações postadas pelos profissionais e a nota pessoal.
+Página contendo as informações cadastrais do cliente, disponibilizando a opção de edição. 
 
 ### Serviços solicitados
 
