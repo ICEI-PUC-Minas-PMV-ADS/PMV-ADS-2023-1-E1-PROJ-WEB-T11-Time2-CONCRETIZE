@@ -17,34 +17,33 @@ Os diagramas apresentados nas figuras acima mostram o fluxo de interação do us
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools) -->
 
 
-## Wireframes
+## Wireframes do fluxo do cliente
 
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem.
 
 ### Home
-<img src="https://live.staticflickr.com/65535/52837441033_8122407205_b.jpg" width="589" height="1024" alt="home"/>
+<img src="https://live.staticflickr.com/65535/52837975694_d408b201f1_h.jpg" width="50%" alt="home"/>
 
 A home page permitirá ao cliente e ao profissional acessar pelo menu principal o painel pessoal, onde estará disponível funcionalidades como editar informações pessoais, visualizar solicitações, responder a solicitações, editar portfólio, entre outros. No menu principal da home também estará disponível a categorias, onde os usuários poderão navegar pelas aŕeas disponíveis em nossa plataforma e solicitar pedidos, e também um botão de atalho para solicitar um serviço.
 
 ### Solicitação de serviço
-<img src="https://live.staticflickr.com/65535/52836551517_0a9fa6ae2e_b.jpg" width="1024" height="852" alt="solicitação de serviço"/>
+<img src="https://live.staticflickr.com/65535/52837791426_b87b6ad84b_h.jpg" width="50%" alt="solicitação de serviço"/>
 
 Formulário que o cliente irá preencher, descrevendo as necessidades do serviço a ser feito e notificando os profissionais, que responderão ao pedido.
 
 ### Meu painel
 
-<img src="https://live.staticflickr.com/65535/52837311369_e2dfda49cd_b.jpg" width="1024" height="858" alt="meu painel cliente"/>
+<img src="https://live.staticflickr.com/65535/52838193215_d2e155fb14_h.jpg" width="50%" alt="meu painel cliente"/>
 
 Painel que será apresentado logo após interagir com o botão "meu painel" no menu principal da home. Disponibilizará aos clientes atalhos para edição das informações pessoais e serviços solicitados. Aos profissionais, será disponibilizada a função de editar o perfil profissional e notificações de pedidos.
 
 ### Perfil do cliente (editar)
 
-<img src="https://live.staticflickr.com/65535/52837529470_3a37b80018_b.jpg" width="1024" height="697" alt="perfil do cliente (editar)"/>
+<img src="https://live.staticflickr.com/65535/52837975609_abadf29197_h.jpg" width="50%" alt="perfil do cliente (editar)"/>
 
 ### Dados do cliente
 
-<img src="https://live.staticflickr.com/65535/52837325134_fce8fbafed_b.jpg" width="1024" height="781" alt="dados do cliente (1)"/>
-
+<img src="https://live.staticflickr.com/65535/52837219882_46a4a13357_h.jpg" width="50%" alt="dados do cliente"/>
 Página contendo as informações pessoais do cliente, disponibilizando a opção de edição. Também conterá as avaliações postadas pelos profissionais e a nota pessoal.
 
 ### Serviços
