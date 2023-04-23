@@ -87,27 +87,27 @@ Painel que será apresentado ao interagir com o botão "Meu Painel", contendo ac
 
 ### Perfil do Profissional (Editar)
 <img src="https://live.staticflickr.com/65535/52839679794_deaaed898b_h.jpg" width="50%" alt="perfil do profissional (editar)"/>
-Painel que será apresentado ao interagir com o botão "Perfil", onde o profissional poderá editar todos os seus dados, foto de perfil, além do portifólio. Poderão também ser visualizadas todas as avaliações recebidas por clientes.
+Página que será apresentada ao interagir com o botão "Perfil", onde o profissional poderá editar seus dados, foto de perfil, além do portifólio. Poderão também ser visualizadas todas as avaliações recebidas por clientes.
 
 ### Painel Profissional
 <img src="https://live.staticflickr.com/65535/52839490316_92dee1e4a8_h.jpg" width="50%" alt="meu painel _ painel profissional"/>
-Página que será apresentado logo após interagir com o botão "Painel Profissional" no menu principal ou meu painel. Disponibilizará aos profissionais os orçamentos enviados e também novos orçamentos pelos quais ele possa se interessar.
+Painel que será apresentado logo após interagir com o botão "Painel Profissional" no menu principal ou meu painel. Disponibilizará aos profissionais os orçamentos enviados e também novos orçamentos pelos quais ele possa se interessar.
 
 ### Painel profissional - Orçamentos enviados
 <img src="https://live.staticflickr.com/65535/52839679819_a4a5b839f9_h.jpg" width="50%" alt="painel profissional _ orçamentos enviados"/>
-Página que será apresentado ao interagir com o botão "Ver todos" na seção de orçamentos enviados, onde o profissional poderá visualizar os orçamentos que enviou e o status em que se encontram, além de poder ver o perfil do cliente. 
+Página que será apresentadoa ao interagir com a seção "Orçamentos enviados", onde o profissional poderá visualizar os orçamentos que enviou.
 
 ### Painel profissional - Orçamento enviado - Detalhes
 <img src="https://live.staticflickr.com/65535/52839679824_3cf6446c5e_h.jpg" width="50%" alt="orçamento enviado"/>
-Detalhes de um orçamento
+Página com os detalhes do orçamento enviado e o status em que se encontra, além disso, o profissional poderá ver o perfil do cliente. 
 
 ### Painel profissional - Talvez você se interesse
 <img src="https://live.staticflickr.com/65535/52839899335_33344a2713_h.jpg" width="50%" alt="painel profissional _ talvez vc se interesse"/>
-Página que será apresentado ao interagir com o botão "Talvez você se interesse" onde serão vizualizadas as solicitações de serviços enviadas por clientes, onde o profissional poderá avaliar cada solicitação, aceitar ou ignorar.
+Página que será apresentada ao interagir com a seção "Talvez você se interesse", onde o profissional poderá visualizar as solicitações enviadas pelos clientes.
 
 ### Painel profissional - Talvez você se interesse - Solicitação de serviços
 <img src="https://live.staticflickr.com/65535/52839679769_3917105027_h.jpg" width="50%" alt="solicitação de serviço"/>
-Página que será apresentado após interagir com solicitação de serviço no botão "Ver mais", onde poderão ser vizualizados todos os detalhes como valor do orçamento, prazo e também uma interação padrão com o cliente.
+Página que será apresentada após interagir com alguma solicitação de serviço. Aqui o profissional poderá visualizar a solicitação que o cliente enviou detalhadamente, escolhendo aceitar (o que acontecerá se ele responder ao formulário) ou ignorar.
 
 ### Perfil do cliente (visualizar)
 <img src="https://live.staticflickr.com/65535/52839490281_5aae0f2ded_h.jpg" width="50%" alt="perfil do cliente (visualizar)"/>
