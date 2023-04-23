@@ -93,6 +93,9 @@ Painel que será apresentado ao interagir com o botão "Perfil", onde o profissi
 <img src="https://live.staticflickr.com/65535/52839490316_92dee1e4a8_h.jpg" width="50%" alt="meu painel _ painel profissional"/>
 Painel que será apresentado logo após interagir com o botão "Painel Profissional" no menu principal da home ou meu painel. Disponibilizará aos profissionais os orçamentos enviados e também novos orçamentos pelos quais ele possa se interessar.
 
+
+
+
 ### Painel profissional - Orçamentos enviados
 <img src="https://live.staticflickr.com/65535/52839679824_3cf6446c5e_h.jpg" width="50%" alt="orçamento enviado"/>
 Painel que será apresentado ao interagir com o botão "Serviços solicitados", onde o profissional poderá visualizar as solicitações dos clientes e o status em que se encontram, além de poder ver o perfil do cliente. 
@@ -112,13 +115,3 @@ Painel que será apresentado após interagir com solicitação de serviço no bo
 ### Perfil do cliente (visualizar)
 <img src="https://live.staticflickr.com/65535/52839490281_5aae0f2ded_h.jpg" width="50%" alt="perfil do cliente (visualizar)"/>
 Painel que será apresentado ao interagir com o botão "Ver perfil", onde poderá ser vizualizado o perfil do Cliente, assim como sua avaliação conforme a nota de outros profissionais.
-
-
-<!-- > **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional) -->
