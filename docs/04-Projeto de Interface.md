@@ -74,7 +74,7 @@ O cliente poderá visualizar o perfil do profissional. Essa página poderá ser 
 
 ## Wireframes do fluxo do profissional
 
-### Home 
+### Modificação no menu principal 
 
 ### Meu painel
 
