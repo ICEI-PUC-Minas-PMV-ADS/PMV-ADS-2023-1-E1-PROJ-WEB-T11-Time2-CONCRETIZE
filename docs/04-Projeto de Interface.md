@@ -87,7 +87,7 @@ Painel que será apresentado ao interagir com o botão "Meu Painel", contendo ac
 
 ### Perfil do Profissional (Editar)
 <img src="https://live.staticflickr.com/65535/52839679794_deaaed898b_h.jpg" width="50%" alt="perfil do profissional (editar)"/>
-Página que será apresentada ao interagir com o botão "Perfil", onde o profissional poderá editar seus dados, foto de perfil, além do portifólio. Poderão também ser visualizadas todas as avaliações recebidas por clientes.
+Página que será apresentada ao interagir com o botão "Perfil", onde o profissional poderá editar seus dados, foto de perfil, além do portfólio. Poderão também ser visualizadas as avaliações recebidas por clientes.
 
 ### Painel Profissional
 <img src="https://live.staticflickr.com/65535/52839490316_92dee1e4a8_h.jpg" width="50%" alt="meu painel _ painel profissional"/>
@@ -95,7 +95,7 @@ Painel que será apresentado logo após interagir com o botão "Painel Profissio
 
 ### Painel profissional - Orçamentos enviados
 <img src="https://live.staticflickr.com/65535/52839679819_a4a5b839f9_h.jpg" width="50%" alt="painel profissional _ orçamentos enviados"/>
-Página que será apresentadoa ao interagir com a seção "Orçamentos enviados", onde o profissional poderá visualizar os orçamentos que enviou.
+Página que será apresentada ao interagir com a seção "Orçamentos enviados", onde o profissional poderá visualizar os orçamentos que enviou.
 
 ### Painel profissional - Orçamento enviado - Detalhes
 <img src="https://live.staticflickr.com/65535/52839679824_3cf6446c5e_h.jpg" width="50%" alt="orçamento enviado"/>
