@@ -76,19 +76,42 @@ O cliente poderá visualizar o perfil do profissional. Essa página poderá ser 
 
 ### Modificação no menu principal 
 
-### Meu painel
+<img src="https://live.staticflickr.com/65535/52839679904_bb5c2d7b48_h.jpg" width="50%" alt="home"/>
 
-### Painel profissional
+A home page permitirá ao profissional acessar pelo menu principal funcionalidades como "Meu perfil", "Serviços Solicitados" e exclusivamente para os profissionais o "Painel Profissional". 
+
+### Meu Painel
+
+<img src="https://live.staticflickr.com/65535/52839934248_c1de695180_h.jpg" width="50%" alt="meu painel profissional"/>
+Painel que será apresentado ao interagir com o botão "Meu Painel", contendo acesso a edição do perfil, o painel profissional, serviços solicitados e também os dados cadastrais.
+
+### Perfil do Profissional (Editar)
+<img src="https://live.staticflickr.com/65535/52839679794_deaaed898b_h.jpg" width="50%" alt="perfil do profissional (editar)"/>
+Painel que será apresentado ao interagir com o botão "Perfil", onde o profissional poderá editar todos os seus dados, foto de perfil, além do portifólio. Poderão também ser visualizadas todas as avaliações recebidas por clientes.
+
+### Painel Profissional
+<img src="https://live.staticflickr.com/65535/52839490316_92dee1e4a8_h.jpg" width="50%" alt="meu painel _ painel profissional"/>
+Painel que será apresentado logo após interagir com o botão "Painel Profissional" no menu principal da home ou meu painel. Disponibilizará aos profissionais os orçamentos enviados e também novos orçamentos pelos quais ele possa se interessar.
 
 ### Painel profissional - Orçamentos enviados
+<img src="https://live.staticflickr.com/65535/52839679824_3cf6446c5e_h.jpg" width="50%" alt="orçamento enviado"/>
+Painel que será apresentado ao interagir com o botão "Serviços solicitados", onde o profissional poderá visualizar as solicitações dos clientes e o status em que se encontram, além de poder ver o perfil do cliente. 
 
 ### Painel profissional - Orçamento enviado - Detalhes
+<img src="https://live.staticflickr.com/65535/52839679819_a4a5b839f9_h.jpg" width="50%" alt="painel profissional _ orçamentos enviados"/>
+Painel que será apresentado ao interagir com o botão "Orçamentos Enviados", onde poderão ser vizualizados os orçamentos que foram enviados aos clientes.
 
 ### Painel profissional - Talvez você se interesse
+<img src="https://live.staticflickr.com/65535/52839899335_33344a2713_h.jpg" width="50%" alt="painel profissional _ talvez vc se interesse"/>
+Painel que será apresentado ao interagir com o botão "Talvez você se interesse" onde serão vizualizadas as solicitações de serviços enviadas por clientes, onde o profissional poderá avaliar cada solicitação, aceitar ou ignorar.
 
 ### Painel profissional - Talvez você se interesse - Solicitação de serviços
+<img src="https://live.staticflickr.com/65535/52839679769_3917105027_h.jpg" width="50%" alt="solicitação de serviço"/>
+Painel que será apresentado após interagir com solicitação de serviço no botão "Ver mais", onde poderão ser vizualizados todos os detalhes como valor do orçamento, prazo e também uma interação padrão com o cliente.
 
 ### Perfil do cliente (visualizar)
+<img src="https://live.staticflickr.com/65535/52839490281_5aae0f2ded_h.jpg" width="50%" alt="perfil do cliente (visualizar)"/>
+Painel que será apresentado ao interagir com o botão "Ver perfil", onde poderá ser vizualizado o perfil do Cliente, assim como sua avaliação conforme a nota de outros profissionais.
 
 
 <!-- > **Links Úteis**:
