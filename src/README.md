@@ -1,11 +1,23 @@
 # Instruções de utilização
 
+```bash
+  npm install
+```
+
+Para atualização do tema, caso necessário
+
+```bash
+  npm run sass-min
+```
+
 ## Instalação do Site
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+O site utiliza o npm para gerenciar as versões dos pacotes.
 
 ## Histórico de versões
 
-### [0.1.0] - DD/MM/AAAA
+### [0.1.0] - 03/04/2023
+
 #### Adicionado
-- Adicionado ...
+
+- Adicionado tema, boostrap, header e footer
