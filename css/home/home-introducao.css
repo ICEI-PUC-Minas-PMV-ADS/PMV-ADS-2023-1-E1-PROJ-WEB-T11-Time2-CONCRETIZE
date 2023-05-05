@@ -1,8 +1,12 @@
-.introducao-bg {
+.home-introducao {
+  margin-bottom: 100px;
+}
+
+.home-introducao-bg {
   position: relative;
 }
 
-.introducao-bg::before {
+.home-introducao-bg::before {
   content: " ";
   display: block;
   position: absolute;
@@ -16,19 +20,27 @@
   background-size: cover;
 }
 
-.introducao-conteudo {
+.home-introducao-conteudo {
   position: relative;
-  padding: 8rem 0rem 8rem 0rem;
+  padding: 100px 0px 100px 0px;
+}
+
+.home-introducao-search {
+  margin-top: 30px;
 }
 
 @media (max-width: 768px) {
-  .introducao-conteudo {
-    padding: 4rem 0rem 4rem 0rem;
+  .home-introducao {
+    margin-bottom: 60px;
+  }
+
+  .home-introducao-conteudo {
+    padding: 60px 0px 60px 0px;
   }
 }
 
 @media (max-width: 576px) {
-  .introducao-bg::before {
+  .home-introducao-bg::before {
     background-image: url("../../img/home/foto-home-mob.jpg");
   }
 }
