@@ -1,5 +1,5 @@
 .home-introducao {
-  margin-bottom: 100px;
+  padding-bottom: 100px;
 }
 
 .home-introducao-bg {
@@ -26,12 +26,12 @@
 }
 
 .home-introducao-search {
-  margin-top: 30px;
+  padding-top: 30px;
 }
 
 @media (max-width: 768px) {
   .home-introducao {
-    margin-bottom: 60px;
+    padding-bottom: 60px;
   }
 
   .home-introducao-conteudo {
