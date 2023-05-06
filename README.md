@@ -12,18 +12,35 @@ O projeto consiste em uma plataforma online que conecta pessoas que buscam servi
 
 ## Integrantes
 
-* Bruno da Silva Lobo
-* Kleiton Soares Lucas
-* Lucas Marques Gomes Viana Lima
-* Maria Beatriz da Silva
+- Bruno da Silva Lobo
+- Kleiton Soares Lucas
+- Lucas Marques Gomes Viana Lima
+- Maria Beatriz da Silva
 
 ## Orientador
 
-* Viviâne De Almeida Tôrres
+- Viviâne De Almeida Tôrres
 
-<!-- ## Instruções de utilização
+# Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.-->
+Requirimento
+
+- node >= v18.13.0
+- npm >= v8.19.3
+
+```bash
+  npm install
+```
+
+Para atualização do tema (somente se necessário), use:
+
+```bash
+  npm run sass-min
+```
+
+## Histórico de versões
+
+### [0.1.0] - 03/05/2023
 
 # Documentação
 
