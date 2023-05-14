@@ -1,6 +1,4 @@
 # Referências
-<!--> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/) -->
 > - [Dificuldade para contratar mão de obra qualificada na construção civil](https://cbic.org.br/cresce-dificuldade-para-contratar-mao-de-obra-qualificada-da-construcao/)
 > - [Brasileiros prefere comprar em lojas online a físicas](https://consumidormoderno.com.br/2021/09/24/metade-brasileiros-prefere-lojas-online/)
 > - [Os pedreiros que esperam por trabalho todos os dias no Centro de SP](https://g1.globo.com/sao-paulo/noticia/a-esquina-do-desemprego-os-pedreiros-que-esperam-por-trabalho-todos-os-dias-no-centro-de-sp.ghtml)
