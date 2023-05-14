@@ -1,12 +1,39 @@
 # Template padrão do site
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente, conforme figura abaixo.
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+<img src="https://i.imgur.com/s0OGGN1.png" width="50%">
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+O template criado está disponível no site <a href="https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2023-1-E1-PROJ-WEB-T11-Time2-CONCRETIZE/">clicando aqui</a>.  e é composto pelos seguintes layouts:
+<ul>
+<li>Tela principal</li>
+<li>Solicitação de Serviços</li>
+<li>Serviços Solicitados</li>
+<li>Orçamentos</li>
+</ul>
+
+A responsividade segue o padrão do Bootstrap.
+
+# Tela Principal
+Tela que abrange todas as visualizações iniciais do site.
+
+<img src="https://i.imgur.com/JMVabAv.jpg" width="50%">
+
+# Solicitação de Serviços
+Este layout é utilizado para solicitação de serviços através de um formulário, detalhando o trabalho a ser desenvolvido.
+
+<img src="https://i.imgur.com/JMVabAv.jpg" width="50%">
+
+# Serviços Solicitados
+Este layout é utilizado para visualização de orçamentos solicitados em especialidades separadas.
+
+<img src="https://i.imgur.com/JMVabAv.jpg" width="50%">
+
+# Orçamentos
+Este layout é utilizado para visualização e contratação dos orçamentos recebidos.
+
+<img src="https://i.imgur.com/JMVabAv.jpg" width="50%">
+
+
+
+
