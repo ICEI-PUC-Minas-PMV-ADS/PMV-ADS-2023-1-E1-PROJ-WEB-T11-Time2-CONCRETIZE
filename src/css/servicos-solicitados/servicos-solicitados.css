@@ -1,10 +1,10 @@
 .servicos-solicitados {
-  color: black;
+  color: rgb(68, 68, 68);
   text-align: left;
   margin-left: 500px;
   margin-top: 100px;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 50px;
 }
 
 .card {
@@ -60,12 +60,12 @@ footer {
 
 @media (max-width: 1200px) {
   .servicos-solicitados {
-    color: black;
+    color: rgb(68, 68, 68);
     text-align: left;
     margin-left: 100px;
     margin-top: 100px;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 50px;
   }
   
   .card {
