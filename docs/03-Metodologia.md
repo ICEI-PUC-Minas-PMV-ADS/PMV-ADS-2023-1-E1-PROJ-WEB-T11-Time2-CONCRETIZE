@@ -14,7 +14,7 @@ A metodologia contempla as definições de ferramental utilizado pela equipe tan
   <tr>
     <td style="border: 1px solid black; padding: 10px;">Repositório de código fonte</td>
     <td style="border: 1px solid black; padding: 10px;">GitHub</td>
-    <td style="border: 1px solid black; padding: 10px;"><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t11-pmv-ads-2023-1-e1-proj-web-t11-02.git" target="_blank">Clique aqui</a> para acessar o repositório</td>
+    <td style="border: 1px solid black; padding: 10px;"><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2023-1-E1-PROJ-WEB-T11-Time2-CONCRETIZE.git" target="_blank">Clique aqui</a> para acessar o repositório</td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 10px;">Documentos do projeto</td>
@@ -28,8 +28,8 @@ A metodologia contempla as definições de ferramental utilizado pela equipe tan
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 10px;">Gerenciamento do Projeto</td>
-    <td style="border: 1px solid black; padding: 10px;">Trello</td>
-    <td style="border: 1px solid black; padding: 10px;"><a href="https://trello.com/invite/b/AePaAZwD/ATTIdbbeb2d42b5193013beec230fe706af610D64F93/projeto-concretize" target="_blank">Clique aqui</a> para acessar nosso gerenciador do Projeto</td>
+    <td style="border: 1px solid black; padding: 10px;">GitHub</td>
+    <td style="border: 1px solid black; padding: 10px;"><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2023-1-E1-PROJ-WEB-T11-Time2-CONCRETIZE.git" target="_blank">Clique aqui</a> para acessar nosso gerenciador do Projeto</td>
   </tr>
 </table>
 
@@ -110,7 +110,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
  <li><strong>Done: </strong>nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para serem entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.</li>
 </ul>
 
-O quadro Kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível <a href="https://trello.com/invite/b/AePaAZwD/ATTIdbbeb2d42b5193013beec230fe706af610D64F93/projeto-concretize" target="_blank">clicando aqui</a>.
+O quadro Kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível <a href="https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/434" target="_blank">clicando aqui</a>.
 
 
 ### Ferramentas
