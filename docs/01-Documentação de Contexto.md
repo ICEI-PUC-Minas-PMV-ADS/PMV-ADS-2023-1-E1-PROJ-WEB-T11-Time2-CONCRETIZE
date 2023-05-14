@@ -1,17 +1,22 @@
 # Introdução
 
-O projeto é uma plataforma online que conecta pessoas que precisam de serviços na área de construção civil a profissionais qualificados. A plataforma funciona como um intermediário entre o cliente e o profissional, tornando o processo de contratação mais fácil e eficiente.
+Cada vez mais estamos inseridos em um cenário tecnológico, onde praticamente todos os serviços, comunicações e soluções são realizadas de forma automatizada/digital. Seguindo essa tendência de digitalização, a nossa forma de buscar por bens e serviços se adaptou a essa nova realidade. Cerca de metade dos brasileires prefere comprar e solicitar serviços de forma online. <a href="https://consumidormoderno.com.br/2021/09/24/metade-brasileiros-prefere-lojas-online/"> Leia mais aqui</a>.
 
-Os clientes podem acessar a plataforma e pesquisar por serviços específicos, como reforma de banheiro ou construção de uma casa. Eles também podem fornecer detalhes sobre o projeto. Com base nessas informações, os profissionais cadastrados na plataforma podem enviar propostas para o cliente, que incluem detalhes sobre o serviço que será prestado, o preço e o prazo de conclusão. O cliente pode comparar as propostas e escolher o profissional que melhor atenda às suas necessidades.
+Embora exista uma demanda por mão de obra qualificada na área da construção civil, muitos profissionais qualificados encontram dificuldades para encontrar serviços. Em 2017, o IBGE enumerou a queda do trabalho sentida pelos profissionais da construção civíl, que calcula um corte de 683 mil vagas no Brasil para 6,7 milhões de trabalhadores (<a href="https://g1.globo.com/sao-paulo/noticia/a-esquina-do-desemprego-os-pedreiros-que-esperam-por-trabalho-todos-os-dias-no-centro-de-sp.ghtml">Leia</a>).Em diversas regiões, existem poucas oportunidades de trabalho, o que prejudica a busca por emprego. Ademais, em um ambiente onde há muitos profissionais qualificados, se destacar pode ser um desafio. Por fim, quando a demanda por serviços é baixa, o profissional acaba abaixando o valor do seu trabalho. Consequentemente, esses profissionais podem acabar ociosos no mercado de trabalho, trabalhando em posições que subvalorizam suas habilidades ou até desempregados.
 
-A plataforma também oferece recursos para ajudar os clientes a avaliar a qualidade dos serviços prestados pelos profissionais. Os clientes podem deixar avaliações e comentários sobre a qualidade do serviço prestado, o atendimento ao cliente e o cumprimento dos prazos. Por outro lado, os profissionais também podem avaliar os clientes e destacar seus principais aspectos.
+Por outro lado, as pessoas e empresas que buscam por serviços prestados por pedreiros  e/ou similares dessa área, possuem dificuldade em encontrar um profissional que seja confiável, isto é, um profissional qualificado em sua área, com experiência comprovada e portfólio definido. Segundo uma pesquisa apontada pela Comissão de Política de Relações Trabalhistas (CPRT), 90% das empresas pesquisadas em fevereiro/2022 identificam obstáculos no processo de contratação. <a href="https://cbic.org.br/cresce-dificuldade-para-contratar-mao-de-obra-qualificada-da-construcao/"> Leia</a>.
 
-Com esse projeto, espera-se que os clientes possam encontrar profissionais qualificados de forma mais fácil e eficiente, além de terem maior controle sobre o processo de contratação e acompanhamento da obra. Já os profissionais terão acesso a uma base maior de clientes em potencial e terão mais oportunidades de expandir seus negócios.
+Diante disso, se vê necessário a criação de uma plataforma que reúna pessoas e empresas à profissionais dessa área, resolvendo com qualidade o problema de falta de oportunidades justas de trabalho e a busca por profissionais qualificados/confiáveis, fazendo o papel de intermediador.
+
 
 <!-- Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto. -->
 
 ## Problema
-Com o avanço da tecnologia, tudo que deseja está a um clique de distância. Contudo, um nicho que ainda pode ser aperfeiçoado é o da construção. Hoje em dia, muitos profissionais da área ainda encontram trabalho por meio de recomendação pessoal, e se fez necessário implementar um novo conceito de prestação de serviços.  A plataforma conecta pessoas e empresas a profissionais de diversas funções.
+Com o avanço da tecnologia, muitas coisas estão a um clique de distância. No entanto, há um nicho que ainda precisa ser aperfeiçoado: o da construção. Muitos profissionais da área ainda dependem de recomendações pessoais para conseguir trabalho, o que pode ser frustrante e limitante. Por outro lado, aqueles que precisam de serviços de construção também podem ter dificuldade em encontrar a mão de obra certa sem depender de indicações.
+
+O problema é específico e envolve a dependência excessiva de indicações, que limita tanto os profissionais quanto os clientes em potencial. É necessário implementar um novo conceito de prestação de serviços que ajude a conectar pessoas e empresas a profissionais de diversas funções de forma mais eficiente.
+
+Para resolver esse problema, se faz necessário a criação de uma plataforma para atender a diferentes necessidades e problemas de pessoas e empresas. Essa plataforma pode ajudar a conectar profissionais qualificados e experientes a clientes em potencial, independentemente de indicações pessoais. Ao fazer isso, a plataforma pode ajudar a superar a dependência excessiva de recomendações e melhorar o acesso à mão de obra qualificada em toda a indústria da construção.
 
 <!-- > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -33,7 +38,7 @@ O objetivo principal da plataforma é conectar pessoas e empresas a profissionai
 
 ## Justificativa
 
-Segundo uma pesquisa realizada pela Câmara Brasileira da Construção Civil, os pedreiros (com 82%) e mestres de obras (com 75%) são alguns dos profissionais mais escassos do mercado, uma vez que a falta de oportunidades que os profissionais possuem para encontrar um trabalho, aliada a falta de confiança que as pessoas apresentam acerca desses trabalhadores são uma realidade. Com isso, se faz necessário a criação de uma plataforma que conecta esses profissionais em busca de trabalho e reconhecimento a pessoas que precisam de seus serviços.
+Segundo uma pesquisa realizada pela Câmara Brasileira da Construção Civil, os pedreiros (com 82%) e mestres de obras (com 75%) são alguns dos profissionais mais escassos do mercado, uma vez que a falta de oportunidades que os profissionais possuem para encontrar um trabalho, aliada a falta de confiança que as pessoas apresentam acerca desses trabalhadores são uma realidade (<a href="https://www.sbtnews.com.br/noticia/sbt-brasil/203697-89-das-construtoras-dizem-ter-dificuldade-em-contratar-mao-de-obra">Clique aqui para saber mais</a>). Com isso, se faz necessário a criação de uma plataforma que conecta esses profissionais em busca de trabalho e reconhecimento a pessoas que precisam de seus serviços.
 
 <!-- > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/) -->
