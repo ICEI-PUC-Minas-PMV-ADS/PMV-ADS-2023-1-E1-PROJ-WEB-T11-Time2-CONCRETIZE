@@ -7,7 +7,8 @@
 }
 
 .home-sobre-conteudo {
-  padding: 100px 0px 100px 50px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .home-sobre-img img {
@@ -26,6 +27,7 @@
   }
 
   .home-sobre-conteudo {
-    padding: 60px 0px 60px 0px;
+    padding-top: 60px;
+    padding-bottom: 60px;
   }
 }
