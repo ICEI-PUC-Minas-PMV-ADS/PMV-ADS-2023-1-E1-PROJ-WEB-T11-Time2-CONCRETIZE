@@ -18,8 +18,8 @@ A metodologia contempla as definições de ferramental utilizado pela equipe tan
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 10px;">Documentos do projeto</td>
-    <td style="border: 1px solid black; padding: 10px;">Google Drive</td>
-    <td style="border: 1px solid black; padding: 10px;"><a href="https://drive.google.com/drive/folders/1TqBcypx-cU87uLSjxAe84d-SIWqf9poa?usp=share_link" target="_blank">Clique aqui</a> para acessar a documentação no Drive</td>
+    <td style="border: 1px solid black; padding: 10px;">GitHub</td>
+    <td style="border: 1px solid black; padding: 10px;"><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2023-1-E1-PROJ-WEB-T11-Time2-CONCRETIZE.git" target="_blank">Clique aqui</a> para acessar a documentação no Drive</td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 10px;">Projeto de Interface e  Wireframes</td>
