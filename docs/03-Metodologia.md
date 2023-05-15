@@ -24,7 +24,7 @@ A metodologia contempla as definições de ferramental utilizado pela equipe tan
   <tr>
     <td style="border: 1px solid black; padding: 10px;">Projeto de Interface e  Wireframes</td>
     <td style="border: 1px solid black; padding: 10px;">Figma</td>
-    <td style="border: 1px solid black; padding: 10px;"><a href="https://www.figma.com/team_invite/redeem/AAIEjwO9Vzr58NJ9ipwIFE" target="_blank">Clique aqui</a> para acessar os Wireframes do projeto</td>
+    <td style="border: 1px solid black; padding: 10px;"><a href="https://www.figma.com/file/2zdYm4H8njZOzXqB49R3yF/Prot%C3%B3tipos-de-m%C3%A9dia-fidelidade?type=design&node-id=0%3A1&t=fkO5sdfPg0995Ssj-1" target="_blank">Clique aqui</a> para acessar os Wireframes do projeto</td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 10px;">Gerenciamento do Projeto</td>
