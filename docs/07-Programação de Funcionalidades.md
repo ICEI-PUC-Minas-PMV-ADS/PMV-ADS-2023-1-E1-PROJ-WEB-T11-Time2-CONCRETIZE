@@ -4,7 +4,7 @@ Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcion
 
 ## Home-Page (RF-001)
 
-A tela principal do sistema apresenta apresenta a logo, menu principal, conteúdo e rodapé. Um exemplo da tela é apresentada na figura abaixo. 
+A tela principal do sistema apresenta apresenta a logo, menu principal, conteúdo e rodapé. Um exemplo da tela é apresentada na figura abaixo. <a href="https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2023-1-E1-PROJ-WEB-T11-Time2-CONCRETIZE/index.html">Acesse a página online clicando aqui.</a>
 
 <img src="https://i.imgur.com/JMVabAv.jpg" width="50%">
 
@@ -13,7 +13,7 @@ RF-001 - O site deve permitir que o usuário visualize na página inicial, a log
 
 ## Solicitação de Serviços (RF-007)
 
-A tela de solicitação de serviços apresenta um formulário para solicitar orçamentos aos profissionais. Um exemplo da tela é apresentada na figura abaixo. 
+A tela de solicitação de serviços apresenta um formulário para solicitar orçamentos aos profissionais. Um exemplo da tela é apresentada na figura abaixo. <a href="https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2023-1-E1-PROJ-WEB-T11-Time2-CONCRETIZE/src/solicitacao-servico.html">Acesse a página online clicando aqui.</a>
 
 <img src="https://i.imgur.com/RxSupsG.png" width="50%">
 
@@ -22,7 +22,7 @@ RF-007	O site deve ter uma funcionalidade que permita o cliente entrar em contat
 
 ## Serviços Solicitados (RF-003)
 
-A tela de Serviços Solicitados apresenta um histórico de solicitações em andamento, separando-as por áreas (Pintor, Pedreiro, Gesseiro). Um exemplo da tela é apresentada na figura abaixo. 
+A tela de Serviços Solicitados apresenta um histórico de solicitações em andamento, separando-as por áreas (Pintor, Pedreiro, Gesseiro). Um exemplo da tela é apresentada na figura abaixo. <a href="https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2023-1-E1-PROJ-WEB-T11-Time2-CONCRETIZE/src/servicos-solicitados.html">Acesse a página online clicando aqui.</a>
 
 <img src="https://i.imgur.com/C9Xj4iI.png" width="50%">
 
@@ -31,7 +31,7 @@ RF-003	O site deve oferecer cards que permitam ao cliente visualizar os orçamen
 
 ## Serviços Solicitados - Detalhes (RF-004)
 
-A tela de Serviços Solicitados - Detalhes, deve apresentar cards adicionais que permitam ao cliente visualizar os orçamentos de profissionais que mostraram interesse no serviço, contendo os dados do profissional, descrição do serviço e valor. Um exemplo da tela é apresentada na figura abaixo. 
+A tela de Serviços Solicitados - Detalhes, deve apresentar cards adicionais que permitam ao cliente visualizar os orçamentos de profissionais que mostraram interesse no serviço, contendo os dados do profissional, descrição do serviço e valor. Um exemplo da tela é apresentada na figura abaixo. <a href="https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2023-1-E1-PROJ-WEB-T11-Time2-CONCRETIZE/src/orcamentos.html">Acesse a página online clicando aqui.</a>
 
 <img src="https://i.imgur.com/snImUNz.png" width="50%">
 
