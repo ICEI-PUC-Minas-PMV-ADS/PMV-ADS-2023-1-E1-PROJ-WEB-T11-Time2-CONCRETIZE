@@ -22,17 +22,17 @@ Tela que abrange todas as visualizações iniciais do site.
 # Solicitação de Serviços
 Este layout é utilizado para solicitação de serviços através de um formulário, detalhando o trabalho a ser desenvolvido.
 
-<img src="https://i.imgur.com/JMVabAv.jpg" width="50%">
+<img src="https://i.imgur.com/RxSupsG.png" width="50%">
 
 # Serviços Solicitados
 Este layout é utilizado para visualização de orçamentos solicitados em especialidades separadas.
 
-<img src="https://i.imgur.com/JMVabAv.jpg" width="50%">
+<img src="https://i.imgur.com/C9Xj4iI.png" width="50%">
 
 # Orçamentos
 Este layout é utilizado para visualização e contratação dos orçamentos recebidos.
 
-<img src="https://i.imgur.com/JMVabAv.jpg" width="50%">
+<img src="https://i.imgur.com/snImUNz.png" width="50%">
 
 
 
