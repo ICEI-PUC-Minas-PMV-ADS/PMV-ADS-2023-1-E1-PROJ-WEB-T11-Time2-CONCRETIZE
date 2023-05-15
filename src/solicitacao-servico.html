@@ -15,7 +15,7 @@
   <header>
     <nav class="navbar navbar-expand-lg bg-dark py-3">
       <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="../index.html">
           <img src="../assets/img/logo-concretize.png" alt="Concretize" width="184" height="43" class="d-inline-block align-text-top">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -24,22 +24,22 @@
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item px-2">
-              <a class="text-light nav-link active" aria-current="page" href="#">Home</a>
+              <a class="text-light nav-link active" aria-current="page" href="../index.html">Home</a>
             </li>
             <li class="nav-item px-2">
-              <a class="text-light nav-link" href="#">Solicite seu serviço</a>
+              <a class="text-light nav-link" href="./solicitacao-servico.html">Solicite seu serviço</a>
             </li>
             <li class="nav-item dropdown px-2">
               <a class="text-light nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 Categorias
               </a>
               <ul class="dropdown-menu dropdown-menu-end">
-                <li><a class="dropdown-item" href="#">Eletricista</a></li>
-                <li><a class="dropdown-item" href="#">Encanador</a></li>
-                <li><a class="dropdown-item" href="#">Gesseiro</a></li>
-                <li><a class="dropdown-item" href="#">Marceneiro</a></li>
-                <li><a class="dropdown-item" href="#">Pedreiro</a></li>
-                <li><a class="dropdown-item" href="#">Pintor</a></li>
+                <li><a class="dropdown-item" href="./solicitacao-servico.html">Eletricista</a></li>
+                <li><a class="dropdown-item" href="./solicitacao-servico.html">Encanador</a></li>
+                <li><a class="dropdown-item" href="./solicitacao-servico.html">Gesseiro</a></li>
+                <li><a class="dropdown-item" href="./solicitacao-servico.html">Marceneiro</a></li>
+                <li><a class="dropdown-item" href="./solicitacao-servico.html">Pedreiro</a></li>
+                <li><a class="dropdown-item" href="./solicitacao-servico.html">Pintor</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown px-2">
@@ -47,61 +47,60 @@
                 Meu painel
               </button>
               <ul class="dropdown-menu dropdown-menu-end">
-                <li><a class="dropdown-item" href="#">Meu perfil</a></li>
-                <li><a class="dropdown-item" href="#">Serviços solicitados</a></li>
+                <li><a class="dropdown-item disabled" href="#">Meu perfil</a></li>
+                <li><a class="dropdown-item" href="./servicos-solicitados.html">Serviços solicitados</a></li>
               </ul>
             </li>
           </ul>
         </div>
       </div>
     </nav>
+  </header>
 
-
-
-<section class="form-solicitacao-servicos">
-  <div class="container">
-    <div class="card mb-3">
-      <div class="row g-0">
-        <div class="col-md-4">
-          <img src="../assets/servicos/mulher.jpg" class="img-fluid rounded-start" alt="Mulher mexendo em seu laptop">
-        </div>
-        <div class="col-md-8">
-          <div class="card-body p-5">
-            <h1 class="fw-bold display-4">Solicite um serviço</h1>
-            <form action="#" class="text-secondary">
-              <div class="mb-3">
-                <label for="titulo" class="form-label">Título da solicitação</label>
-                <input name="titulo" type="text" class="form-control" id="titulo" placeholder="Pintar sala, consertar cano...">
-              </div>
-              <div class="mb-3">
-                <label for="categoria" class="form-label">Selecione uma categoria</label>
-                <select class="form-select" name="categoria" id="categoria">
-                  <option value="1">Eletricista</option>
-                  <option value="2">Encanador</option>
-                  <option value="3">Gesseiro</option>
-                  <option value="4">Marceneiro</option>
-                  <option value="5">Pedreiro</option>
-                  <option value="6">Pintor</option>
-                </select>
-              </div>
-              <div class="mb-3">
-                <label for="info" class="form-label">Mais detalhes</label>
-                <textarea class="form-control" id="info" rows="3" placeholder="Informe os detalhes mais relevantes para você"></textarea>
-              </div>
-              <button type="submit" class="btn btn-primary">Enviar solicitação</button>
-            </form>
+  <section class="form-solicitacao-servicos">
+    <div class="container">
+      <div class="card mb-3">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <img src="../assets/servicos/mulher.jpg" class="img-fluid rounded-start" alt="Mulher mexendo em seu laptop">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body p-5">
+              <h1 class="fw-bold display-4">Solicite um serviço</h1>
+              <form action="#" class="text-secondary">
+                <div class="mb-3">
+                  <label for="titulo" class="form-label">Título da solicitação</label>
+                  <input name="titulo" type="text" class="form-control" id="titulo" placeholder="Pintar sala, consertar cano...">
+                </div>
+                <div class="mb-3">
+                  <label for="categoria" class="form-label">Selecione uma categoria</label>
+                  <select class="form-select" name="categoria" id="categoria">
+                    <option value="1">Eletricista</option>
+                    <option value="2">Encanador</option>
+                    <option value="3">Gesseiro</option>
+                    <option value="4">Marceneiro</option>
+                    <option value="5">Pedreiro</option>
+                    <option value="6">Pintor</option>
+                  </select>
+                </div>
+                <div class="mb-3">
+                  <label for="info" class="form-label">Mais detalhes</label>
+                  <textarea class="form-control" id="info" rows="3" placeholder="Informe os detalhes mais relevantes para você"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Enviar solicitação</button>
+              </form>
+            </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
   <footer class="bg-dark">
     <div class="container py-4">
       <div class="text-light row gap-4">
         <div class="col-md">
-          <a class="navbar-brand" href="#">
+          <a class="navbar-brand" href="../index.html">
             <img src="../assets/img/logo-concretize.png" alt="Concretize" width="184" height="43" class="d-inline-block align-text-top">
           </a>
         </div>
@@ -119,19 +118,18 @@
         <div class="col d-none d-sm-block d-sm-none d-md-block d-md-none d-lg-block">
           <h4>Categorias</h4>
           <ul class="navbar-nav ms-auto">
-            <li class="nav-item"><a class="text-light nav-link active" aria-current="page" href="#">Eletricista</a></li>
-            <li class="nav-item"><a class="text-light nav-link active" aria-current="page" href="#">Encanador</a></li>
-            <li class="nav-item"><a class="text-light nav-link active" aria-current="page" href="#">Gesseiro</a></li>
-            <li class="nav-item"><a class="text-light nav-link active" aria-current="page" href="#">Marceneiro</a></li>
-            <li class="nav-item"><a class="text-light nav-link active" aria-current="page" href="#">Pedreiro</a></li>
-            <li class="nav-item"><a class="text-light nav-link active" aria-current="page" href="#">Pintor</a></li>
+            <li class="nav-item"><a class="text-light nav-link active" aria-current="page" href="./solicitacao-servico.html">Eletricista</a></li>
+            <li class="nav-item"><a class="text-light nav-link active" aria-current="page" href="./solicitacao-servico.html">Encanador</a></li>
+            <li class="nav-item"><a class="text-light nav-link active" aria-current="page" href="./solicitacao-servico.html">Gesseiro</a></li>
+            <li class="nav-item"><a class="text-light nav-link active" aria-current="page" href="./solicitacao-servico.html">Marceneiro</a></li>
+            <li class="nav-item"><a class="text-light nav-link active" aria-current="page" href="./solicitacao-servico.html">Pedreiro</a></li>
+            <li class="nav-item"><a class="text-light nav-link active" aria-current="page" href="./solicitacao-servico.html">Pintor</a></li>
           </ul>
         </div>
         <div class="col-md">
           <h4>Acesso Fácil</h4>
           <ul class="navbar-nav ms-auto">
-            <li class="nav-item"><a class="text-light nav-link active" aria-current="page" href="#">Solicitação de Serviço</a></li>
-            <li class="nav-item"><a class="text-light nav-link active" aria-current="page" href="#">Meu painel</a></li>
+            <li class="nav-item"><a class="text-light nav-link active" aria-current="page" href="./solicitacao-servico.html">Solicitação de Serviço</a></li>
           </ul>
         </div>
       </div>
