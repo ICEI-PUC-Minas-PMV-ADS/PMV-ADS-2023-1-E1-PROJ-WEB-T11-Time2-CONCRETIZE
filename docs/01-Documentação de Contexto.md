@@ -47,17 +47,6 @@ Segundo uma pesquisa realizada pela Câmara Brasileira da Construção Civil, os
 
 O foco são pessoas ou empresas que necessitam realizar desde um simples reparo até uma construção da fundação ao acabamento, que pode ser residencial ou comercial. A plataforma também estará disponível para profissionais da área que queiram se beneficiar utilizando os serviços oferecidos. O profissional deverá analisar a proposta e o volume de trabalho, respeitando sempre o prazo de entrega que será proposto e inserido em contrato. Para o cliente, será cobrada uma taxa de até 10% sobre o valor do serviço prestado pelo profissional.
 
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="border: 1px solid black; padding: 10px;">
-      <img src="https://i.imgur.com/Y9JHVPs.png" alt="Joana Santos" style="max-width: 100%; height: auto;">
-    </td>
-    <td style="border: 1px solid black; padding: 10px;">
-      <img src="https://i.imgur.com/oUCGXZY.png" alt="José da Silva" style="max-width: 100%; height: auto;">
-    </td>
-  </tr>
-</table>
-
 <!-- > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
