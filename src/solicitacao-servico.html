@@ -55,29 +55,47 @@
         </div>
       </div>
     </nav>
-  </header>
-  <h1 class="fw-bold display-6">Solicite um serviço</h1>
+
+
+
+<section class="form-solicitacao-servicos">
   <div class="container">
-    <div class="form-floating mb-3">
-      <input type="text" class="form-control" id="floatingInput" placeholder="Pintar sala, consertar cano...">
-      <label for="floatingInput">Título da solicitação</label>
+    <div class="card mb-3">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img src="../assets/servicos/mulher.jpg" class="img-fluid rounded-start" alt="Mulher mexendo em seu laptop">
+        </div>
+        <div class="col-md-8">
+          <div class="card-body p-5">
+            <h1 class="fw-bold display-4">Solicite um serviço</h1>
+            <form action="#" class="text-secondary">
+              <div class="mb-3">
+                <label for="titulo" class="form-label">Título da solicitação</label>
+                <input name="titulo" type="text" class="form-control" id="titulo" placeholder="Pintar sala, consertar cano...">
+              </div>
+              <div class="mb-3">
+                <label for="categoria" class="form-label">Selecione uma categoria</label>
+                <select class="form-select" name="categoria" id="categoria">
+                  <option value="1">Eletricista</option>
+                  <option value="2">Encanador</option>
+                  <option value="3">Gesseiro</option>
+                  <option value="4">Marceneiro</option>
+                  <option value="5">Pedreiro</option>
+                  <option value="6">Pintor</option>
+                </select>
+              </div>
+              <div class="mb-3">
+                <label for="info" class="form-label">Mais detalhes</label>
+                <textarea class="form-control" id="info" rows="3" placeholder="Informe os detalhes mais relevantes para você"></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary">Enviar solicitação</button>
+            </form>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-
-<div class="container">
-  <div class="dropdown">
-    <button class="btn btn-secondary dropdown-toggle col-12" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-      Selecione uma categoria:
-    </button>
-    <ul class="dropdown-menu col-12 ">
-      <li><a class="dropdown-item" href="#">Pedreiro</a></li>
-      <li><a class="dropdown-item" href="#">Gesseiro</a></li>
-      <li><a class="dropdown-item" href="#">Pintor</a></li> 
-      <li><a class="dropdown-item" href="#">Encanador</a></li>
-    </ul>
-  </div>
-</div>
-
+</section>
 
   <footer class="bg-dark">
     <div class="container py-4">
