@@ -70,7 +70,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-012| O site deve permitir que o usuário realize o login com nome de usuário e senha. | BAIXA |
 |RF-013| O site deve permitir ao cliente realizar feedbacks dos profissionais a qual está contratando o serviço. | BAIXA |
 |RF-014| O site deve permitir ao cliente visualizar os feedbacks feitos por outros clientes dos profissionais a qual está contratando o serviço.  | BAIXA |
-|RF-012|O site deve permitir a visualização das informações de contato do mantenedor da plataforma (“suporte”), além de deixar um formulário à disposição. O suporte servirá de apoio para os usuários que necessitarem de um intermediador para resolver conflitos ou bugs na plataforma. | BAIXA |
+|RF-015| O site deve permitir a visualização das informações de contato do mantenedor da plataforma (“suporte”), além de deixar um formulário à disposição. O suporte servirá de apoio para os usuários que necessitarem de um intermediador para resolver conflitos ou bugs na plataforma. | BAIXA |
 
 
 ### Requisitos não Funcionais
