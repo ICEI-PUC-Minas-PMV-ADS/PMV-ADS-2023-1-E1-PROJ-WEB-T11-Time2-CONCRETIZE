@@ -56,17 +56,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deve permitir que o usuário visualize na página inicial, a logo e o menu principal. O menu deve conter categorias como: cadastro/login, como funciona, quem somos, suporte, solicite um orçamento e blog. O usuário também deve conseguir visualizar ao longo da página principal, a apresentação do propósito da empresa, provas sociais, chamada para ação (cadastro na plataforma), assinatura de newsletter e rodapé. | ALTA | 
-|RF-002| O site deve oferecer a funcionalidade de cadastro para usuários. Para o cliente, esse cadastro deve conter informações essenciais como nome completo, CPF, e-mail, senha, celular (WhatsApp), gênero, data de nascimento, endereço residencial. Para o cadastro de profissionais, será exibido um caminho alternativo, dando opções de registro de área de atuação, portfólio e imagens de trabalhos anteriores.| ALTA |
-|RF-003| O site deve permitir que o usuário realize o login com nome de usuário e senha. | ALTA | 
-|RF-004| O site deve permitir ao cliente visualizar e realizar feedbacks dos profissionais a qual está contratando o serviço. Com isso, os profissionais também poderão ver o histórico dos serviços prestados e para quais clientes foram.   | ALTA |
-|RF-005| O site deve ter uma funcionalidade que permita o cliente entrar em contato com o profissional dentro do próprio site, para solicitar orçamentos e tirar dúvidas, sem a necessidade de uma ferramenta externa. | ALTA | 
-|RF-006| O site deve fornecer aos usuários, quando sinalizado que o serviço vai ser realizado, um modelo de contrato amparando ambos os lados. Para o profissional, deve-se assegurar o recebimento do pagamento conforme o acordado e fornecimento dos materiais. Para o cliente, deve-se assegurar a entrega dentro do prazo previsto, com qualidade e segurança.   | ALTA |
-|RF-007| O site deve permitir a visualização das informações de contato do mantenedor da plataforma (“suporte”), além de deixar um formulário à disposição. O suporte servirá de apoio para os usuários que necessitarem de um intermediador para resolver conflitos ou bugs na plataforma. | MÉDIA | 
-|RF-008| O site deve fornecer uma página de blog ao usuário, onde ele terá acesso a dicas e informações acerca do ramo de construção civil e imóveis.   | BAIXA |
-|RF-009| O site deve exibir para o usuário os comentários registrados juntamente com os posts publicados no blog. | BAIXA | 
-|RF-010| O site deve apresentar uma funcionalidade de pesquisa com predefinições que ajudam o cliente a se orientar através do mesmo.   | BAIXA |
-|RF-011| O site deve oferecer cards adicionais que permitam ao cliente visualizar os orçamentos de profissionais que mostraram interesse no serviço, contendo os dados do profissional, descrição do serviço e valor.   | BAIXA |
+|RF-001| O site deve permitir que o usuário visualize na página inicial, a logo e o menu principal. Inicialmente, o menu principal deve permitir que o usuário acesse as seguintes páginas: home, solicitação de serviços, serviços solicitados, painel do profissional e meu perfil (as duas últimas opções estão disponíveis apenas para profissionais). O usuário também deve conseguir visualizar ao longo da página principal, a apresentação do propósito da empresa, chamada para ação, provas sociais e rodapé. | ALTA | 
+|RF-002| O site deve permitir que o cliente solicite um serviço através de um formulário. | ALTA |
+|RF-003| O site deve permitir que o cliente visualize os serviços que solicitou. | ALTA | 
+|RF-004| O site deve apresentar para o cliente cards com os orçamentos enviados pelos profissionais para uma determinada solicitação de serviço. | ALTA |
+|RF-005| O site deve fornecer para o cliente, através do card que mostrará o orçamento enviado pelo profissional, as informações do profissional em questão. Dessa forma, o cliente poderá entrar em contato com o profissional escolhido e acertar os detalhes restantes por conta própria, seja por número de celular ou email. | ALTA | 
+|RF-006| O site deve permitir que o cliente visualize a página do profissional. | ALTA |
+|RF-007| O site deve permitir que o profissional acesse uma página, onde poderá visualizar os orçamentos que já enviou e as solicitações de serviços que correspondem com sua categoria de atuação e localização. | ALTA |
+|RF-008| O site deve permitir que o profissional envie um orçamento, caso esteja interessado, para as solicitações de serviços que correspondam com sua categoria de atuação e localização. | ALTA |
+|RF-009| O site deve permitir que o profissional faça o upload de fotos de seu trabalho para compor seu portfólio. Essas fotos serão exibidas na página de perfil do profissional. | MÉDIA | 
+|RF-010| O site deve fornecer aos usuários, quando solicitado pelos mesmos, um modelo de contrato amparando ambos os lados. Para o profissional, deve-se assegurar o recebimento do pagamento conforme o acordado e fornecimento dos materiais. Para o cliente, deve-se assegurar a entrega dentro do prazo previsto, com qualidade e segurança.  | MÉDIA |
+|RF-011| O site deve permitir que o usuário se cadastre no site. Esse cadastro deve conter informações essenciais como nome completo, CPF, e-mail, senha, celular (WhatsApp), gênero, data de nascimento, endereço e uma opção para que o usuário aponte se ele é um cliente ou um profissional. | BAIXA |
+|RF-012| O site deve permitir que o usuário realize o login com nome de usuário e senha. | BAIXA |
+|RF-013| O site deve permitir ao cliente realizar feedbacks dos profissionais a qual está contratando o serviço. | BAIXA |
+|RF-014| O site deve permitir ao cliente visualizar os feedbacks feitos por outros clientes dos profissionais a qual está contratando o serviço.  | BAIXA |
+|RF-012|O site deve permitir a visualização das informações de contato do mantenedor da plataforma (“suporte”), além de deixar um formulário à disposição. O suporte servirá de apoio para os usuários que necessitarem de um intermediador para resolver conflitos ou bugs na plataforma. | BAIXA |
 
 
 ### Requisitos não Funcionais
