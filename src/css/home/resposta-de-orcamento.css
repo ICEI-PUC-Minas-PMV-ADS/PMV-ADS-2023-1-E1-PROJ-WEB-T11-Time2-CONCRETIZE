@@ -1,0 +1,23 @@
+.data-inicio {
+ color:#6C757D;
+ text-align: center;
+ border-color:#6C757D;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+
+#data-info {
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+
+.prazo{
+    color:#6C757D;
+    text-align: center;
+    border-color:#6C757D;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
