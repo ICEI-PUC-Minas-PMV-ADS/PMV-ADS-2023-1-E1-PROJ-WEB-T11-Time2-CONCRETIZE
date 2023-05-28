@@ -6,6 +6,9 @@
 .orcamentos h1 {
   padding-bottom: 60px;
 }
+.orcamentos-img img {
+  border-radius: 100%;
+}
 
 @media (max-width: 768px) {
   .orcamentos {
