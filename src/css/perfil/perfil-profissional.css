@@ -1,4 +1,22 @@
-.perfil-profissional {
-  padding-top: 100px;
-  padding-bottom: 100px;
+.perfil-profissional-bg {
+  position: relative;
+}
+
+.perfil-profissional-bg::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("../../../assets/img/perfil/bg-perfil.jpg");
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: cover;
+}
+
+.perfil-profissional-titulo {
+  position: relative;
+  padding: 100px 0px 100px 0px;
 }
