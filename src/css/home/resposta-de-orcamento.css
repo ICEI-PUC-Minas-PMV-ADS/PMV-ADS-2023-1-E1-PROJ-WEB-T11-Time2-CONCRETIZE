@@ -21,3 +21,13 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+.form-solicitacao-servicos {
+display:flex
+display-wrap:wrap
+}
+
+.solicitacao-cliente {
+    display:flex;
+    
+}
