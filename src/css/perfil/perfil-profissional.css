@@ -20,3 +20,15 @@
   position: relative;
   padding: 100px 0px 100px 0px;
 }
+
+.img-perfil-profissional img {
+  border-radius: 10px;
+}
+
+.perfil-profissional-conteudo i {
+  color: #d9d9d9;
+}
+
+.perfil-profissional-infos p {
+  margin: 0;
+}
