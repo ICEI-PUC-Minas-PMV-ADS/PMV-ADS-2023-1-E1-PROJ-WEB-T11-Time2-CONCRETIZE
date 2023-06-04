@@ -16,6 +16,11 @@
   background-size: cover;
 }
 
+.perfil-profissional-conteudo {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
 .perfil-profissional-titulo {
   position: relative;
   padding: 100px 0px 100px 0px;
@@ -25,10 +30,24 @@
   border-radius: 10px;
 }
 
+.img-perfil-profissional {
+  padding-bottom: 20px;
+}
+
 .perfil-profissional-conteudo i {
   color: #d9d9d9;
 }
 
 .perfil-profissional-infos p {
-  margin: 0;
+  margin: 0px;
+}
+
+.perfil-profissional-card {
+  background-color: #dee2e6;
+  border-radius: 10px;
+  padding: 30px 30px 60px 30px;
+}
+
+.perfil-profissional-card-bt {
+  margin-bottom: -26px;
 }
