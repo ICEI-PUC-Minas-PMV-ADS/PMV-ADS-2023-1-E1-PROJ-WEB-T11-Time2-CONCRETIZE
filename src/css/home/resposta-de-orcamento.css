@@ -1,9 +1,9 @@
 .data-inicio {
- color:#6C757D;
- text-align: center;
- border-color:#6C757D;
- margin-left: 10px;
- margin-right: 10px;
+    text-align: center;
+    border-color:#ced4da;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: solid;
 }
 
 #data-info {
@@ -13,21 +13,81 @@
 }
 
 .prazo{
-    color:#6C757D;
     text-align: center;
-    border-color:#6C757D;
+    border-color:#ced4da;
     margin-left: 10px;
     margin-right: 10px;
-    display: flex;
-    flex-wrap: wrap;
+   
+    border-style: solid;
 }
 
 .form-solicitacao-servicos {
-display:flex
-display-wrap:wrap
+display:flex;
+display-wrap:wrap;
+border: #ced4da;
+border-style: solid;
+
 }
 
 .solicitacao-cliente {
     display:flex;
     
 }
+
+#cabecalho-solicitacao {
+    
+}
+
+#solicit-sec{
+    border-style: solid;
+    border-color: #ced4da;
+    border-radius: 5px;
+    border-width: 1px;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 50px;
+padding-inline: 5px;
+padding-bottom: 10px;
+    
+ 
+   
+}
+
+#foto-cliente {
+    display: flex;
+border-color:#ced4da
+border-style: solid;
+border-radius: 5px;
+border-width: 1px;
+padding-top: 10px;
+padding-bottom: 10px;
+align-items: center;
+display-wrap:wrap;
+
+
+
+
+}
+   
+
+   .img-homem {
+    display: flex;
+    display-wrap:wrap;
+   margin-right:5px;
+   margin-left: 0;
+   }
+  
+
+   
+   #info-solicit {
+    display: flex;
+
+border-radius: 5px;
+border-width: 1px;
+padding-top: 10px;
+padding-bottom: 10px;
+align-items: center;
+display-wrap:wrap;
+   }
+
+
