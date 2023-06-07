@@ -23,7 +23,7 @@
 
 .form-solicitacao-servicos {
 display:flex;
-display-wrap:wrap;
+
 border: #ced4da;
 border-style: solid;
 
@@ -34,9 +34,7 @@ border-style: solid;
     
 }
 
-#cabecalho-solicitacao {
-    
-}
+
 
 #solicit-sec{
     border-style: solid;
@@ -55,14 +53,14 @@ padding-bottom: 10px;
 
 #foto-cliente {
     display: flex;
-border-color:#ced4da
+border-color:#ced4da;
 border-style: solid;
 border-radius: 5px;
 border-width: 1px;
 padding-top: 10px;
 padding-bottom: 10px;
 align-items: center;
-display-wrap:wrap;
+
 
 
 
@@ -72,7 +70,7 @@ display-wrap:wrap;
 
    .img-homem {
     display: flex;
-    display-wrap:wrap;
+
    margin-right:5px;
    margin-left: 0;
    }
@@ -87,7 +85,7 @@ border-width: 1px;
 padding-top: 10px;
 padding-bottom: 10px;
 align-items: center;
-display-wrap:wrap;
+
    }
 
 
