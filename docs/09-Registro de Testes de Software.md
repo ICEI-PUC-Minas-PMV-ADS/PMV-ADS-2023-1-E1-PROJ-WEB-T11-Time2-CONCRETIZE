@@ -8,6 +8,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 <img src="https://i.imgur.com/alTDeWR.jpg">
 <br>
 <img src="https://i.imgur.com/LDJmx5h.png">
+Os botões da home devem levar para página de "Solicite um serviço"
 
 ## CT-02 - Solicitação de serviço
 <img src="https://i.imgur.com/LDJmx5h.png">
@@ -26,9 +27,10 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 <br>
 
 ## CT-006 - Visualização da página de perfil do profissional
-<img src="https://i.imgur.com/sVoe964.png">
-<br>
 <img src="https://i.imgur.com/OayCM85.png">
+<br>
+<img src="https://i.imgur.com/sVoe964.png">
+Ao clicar na imagem do profissional ou em "Perfil do profissional" na página de orçamentos, o usuário será levado até a página de perfil do profissional 
 <br>
 
 ## CT-07 - Página de painel profissional
