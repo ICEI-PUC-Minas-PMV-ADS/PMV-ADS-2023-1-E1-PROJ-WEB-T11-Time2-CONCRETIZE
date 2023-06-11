@@ -38,4 +38,7 @@
   .painel-profissional h1 {
     padding-bottom: 30px;
   }
+  #col2 {
+    margin-left: 0px;
+  }
 }
