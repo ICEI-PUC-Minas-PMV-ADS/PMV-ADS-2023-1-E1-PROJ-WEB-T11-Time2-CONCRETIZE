@@ -22,7 +22,7 @@ Nesta seção são apresentados os planos de teste de software.
   </tr>
   <tr>
    <th style="border: 1px solid white; padding: 10px;">Critérios de êxito</th>
-   <td style="border: 1px solid black; padding: 10px;">- Ao selecionar qualquer categoria presente na barra de busca e clicar no botão de lupa, o usuário deve ser redirecionado para a página de "Solicite um serviço"<br>- Ao clicar nos botões presentes na seção de "Principais categorias", o usuário deve ser redirecionado para a página de "Solicite um serviço"</td>
+   <td style="border: 1px solid black; padding: 10px;">- Ao selecionar qualquer categoria presente na barra de busca e clicar no botão de lupa, o usuário deve ser redirecionado para a página de "Solicite um serviço"<br>- Ao clicar nos botões presentes na seção de "Principais categorias", o usuário deve ser redirecionado para a página de "Solicite um serviço" (https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2023-1-E1-PROJ-WEB-T11-Time2-CONCRETIZE/src/solicitacao-servico.html)</td>
   </tr>
 </table>
 <br>
