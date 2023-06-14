@@ -13,7 +13,7 @@ A tela principal do sistema apresenta apresenta a logo, menu principal, conteúd
 RF-001 - O site deve permitir que o usuário visualize na página inicial, a logo e o menu principal. O menu deve conter categorias como: cadastro/login, como funciona, quem somos, suporte, solicite um orçamento e blog. O usuário também deve conseguir visualizar ao longo da página principal, a apresentação do propósito da empresa, provas sociais, chamada para ação (cadastro na plataforma), assinatura de newsletter e rodapé.
 <br>
 <br>
-## Solicitação de Serviços (RF-007)
+## Solicitação de Serviços (RF-002)
 
 A tela de solicitação de serviços apresenta um formulário para solicitar orçamentos aos profissionais. Um exemplo da tela é apresentada na figura abaixo. <a href="https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2023-1-E1-PROJ-WEB-T11-Time2-CONCRETIZE/src/solicitacao-servico.html">Acesse a página online clicando aqui.</a>
 
