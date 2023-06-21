@@ -72,7 +72,7 @@
           <div class="col-md-8">
             <div class="card-body p-5">
               <h1 class="fw-bold display-4">Solicite um serviço</h1>
-              <form action="#" class="text-secondary">
+              <form action="#" class="text-secondary" id="form2">
                 <div class="mb-3">
                   <label for="titulo" class="form-label">Título da solicitação</label>
                   <input name="titulo" type="text" class="form-control" id="titulo"
@@ -101,7 +101,7 @@
                   <textarea class="form-control" id="info" rows="3"
                     placeholder="Informe os detalhes mais relevantes para você" required></textarea>
                 </div>
-                <button type="submit" class="btn btn-primary">Enviar solicitação</button>
+                <button type="submit" class="btn btn-primary" id="botao2">Enviar solicitação</button>
               </form>
             </div>
           </div>
@@ -168,6 +168,27 @@
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.7/dist/umd/popper.min.js"
     integrity="sha384-zYPOMqeu1DAVkHiLqWBUTcbYfZ8osu1Nd6Z89ify25QV9guujx43ITvfi12/QExE"
     crossorigin="anonymous"></script>
+
+  <script>
+    var formulario = document.getElementById('form2');
+
+    var botao = document.getElementById('botao2');
+
+    botao.addEventListener('click', function (event) {
+      var camposRequeridos = formulario.querySelectorAll('[required]');
+      var camposFaltantes = Array.from(camposRequeridos).filter(function (campo) {
+        return campo.value === '';
+      });
+
+      if (camposFaltantes.length > 0) {
+        event.preventDefault();
+        alert('Por favor, preencha todos os campos requeridos.');
+      } else {
+        alert('Serviço solicitado com sucesso!');
+      }
+    });
+  </script>
+
 </body>
 
 </html>
