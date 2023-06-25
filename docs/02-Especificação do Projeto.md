@@ -64,14 +64,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| O site deve permitir que o cliente visualize a página do profissional. | ALTA |
 |RF-007| O site deve permitir que o profissional acesse uma página, onde poderá visualizar os orçamentos que já enviou e as solicitações de serviços que correspondem com sua categoria de atuação e localização. | ALTA |
 |RF-008| O site deve permitir que o profissional envie um orçamento, caso esteja interessado, para as solicitações de serviços que correspondam com sua categoria de atuação e localização. | ALTA |
-|RF-009| O site deve permitir que o profissional faça o upload de fotos de seu trabalho para compor seu portfólio. Essas fotos serão exibidas na página de perfil do profissional. | MÉDIA | 
-|RF-010| O site deve fornecer aos usuários, quando solicitado pelos mesmos, um modelo de contrato amparando ambos os lados. Para o profissional, deve-se assegurar o recebimento do pagamento conforme o acordado e fornecimento dos materiais. Para o cliente, deve-se assegurar a entrega dentro do prazo previsto, com qualidade e segurança.  | MÉDIA |
-|RF-011| O site deve permitir que o usuário se cadastre no site. Esse cadastro deve conter informações essenciais como nome completo, CPF, e-mail, senha, celular (WhatsApp), gênero, data de nascimento, endereço e uma opção para que o usuário aponte se ele é um cliente ou um profissional. | BAIXA |
-|RF-012| O site deve permitir que o usuário realize o login com nome de usuário e senha. | BAIXA |
-|RF-013| O site deve permitir ao cliente realizar feedbacks dos profissionais a qual está contratando o serviço. | BAIXA |
-|RF-014| O site deve permitir ao cliente visualizar os feedbacks feitos por outros clientes dos profissionais a qual está contratando o serviço.  | BAIXA |
-|RF-015| O site deve permitir a visualização das informações de contato do mantenedor da plataforma (“suporte”), além de deixar um formulário à disposição. O suporte servirá de apoio para os usuários que necessitarem de um intermediador para resolver conflitos ou bugs na plataforma. | BAIXA |
-
 
 ### Requisitos não Funcionais
 
